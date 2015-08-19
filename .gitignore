@@ -1,0 +1,10 @@
+.idea
+
+# CORDOVA
+/cordova/platforms/**
+/cordova/plugins/**
+/cordova/www/**
+!/cordova/**/.keep
+
+# BROWSER
+*.log
